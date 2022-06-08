@@ -1,0 +1,82 @@
+
+.conteiner{
+    display: flex;
+}
+
+
+
+
+
+.heder{
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(139, 106, 106);
+    color: blanchedalmond;
+    margin: 5px;
+    text-align: center;}
+
+
+
+    .img{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    margin: 3px;
+}
+
+
+
+.heder_aqua {
+    background-color: aqua;
+    color: black;
+    width: 130px;
+    margin: 2px;
+
+}
+
+.heder_deepskyblue {
+    background-color: deepskyblue;
+    color: black;
+    width: 83px;
+    margin: 2px;
+}
+
+.heder_black {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    width: 175px;
+    margin: 2px;
+}
+
+.heder_fuchsia {
+    background-color: fuchsia;
+    color: black;
+    width: 120px;
+    margin: 2px;
+}
+
+.heder_greenyellow {
+    background-color: greenyellow;
+    color: black;
+    width: 102px;
+    margin: 2px;
+}
+
+.heder_coral {
+    background-color: coral;
+    color: black;
+    width: 102px;
+    margin: 2px;
+}
+
+.heder_pink {
+    background-color: pink;
+    color: black;
+    width: 120px;
+    margin: 2px;
+}
